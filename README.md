@@ -19,8 +19,8 @@ This project aims to produce the first telomere-to-telomere, high-quality (QV>73
 ## Downloads
 ### Sequencing data
 * DNA and transcriptome sequencing data, including HiFi, ONT, Hi-C, and long reads ISO sequencing data.
-  * From [NCBI (PRJNA1322564)](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1322564)
-  * From [Genomark(Giraffa_tippelskirchi)](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Giraffa_tippelskirchi/)
+  * From [NCBI (PRJNA1322564)](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1322564) and [NCBI (PRJNA1367195)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1367195).
+  * From [Genomark (Giraffa_tippelskirchi)](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Giraffa_tippelskirchi/)
 
 ### Analysis set (to be uploaded)
 Analysis set for using T2T-Giraffe v1.2 (mGirTip1.pri.cur.MT.20251124) as a reference for mapping based research is available at aws with a README. 
