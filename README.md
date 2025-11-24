@@ -22,18 +22,21 @@ This project aims to produce the first telomere-to-telomere, high-quality (QV73.
   * From [NCBI (PRJNA1322564)](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1322564) and [NCBI (PRJNA1367195)](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1367195).
   * From [Genomark (Giraffa_tippelskirchi)](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Giraffa_tippelskirchi/)
 
-### Analysis set (to be uploaded)
+### Analysis set 
 Analysis set for using T2T-Giraffe v1.2 (mGirTip1.pri.cur.MT.20251124) as a reference for mapping based research is available at aws with a README. 
-* PAR masked curated genome : The primary haplotype reference with the PAR on chrY masked.
+* PAR masked curated genome (to be uploaded) : The primary haplotype reference with the PAR on chrY masked.
   
 ### Gene annotation (to be uploaded)
-* gene_annotation.gff : Gene annotation of the T2T-Giraffe v1.2 genome using [EviAnn](https://github.com/alekseyzimin/EviAnn_release?tab=readme-ov-file) with long-read RNA-seq and protein-similarity evidence.
+* [mGirTip1v1.2.pri.cur.20251124.eviann.gff.gz](https://github.com/jjuhyunkim/giraffeT2T/blob/main/annotation_data/mGirTip1v1.2.pri.cur.20251124.eviann.gff.gz)) : Gene annotation of the T2T-Giraffe v1.2 primary assembly using [EviAnn](https://github.com/alekseyzimin/EviAnn_release?tab=readme-ov-file) with long-read RNA-seq and protein-similarity evidence.
 
-### Other annotation (to be uploaded)
-* gap.bed :Gap regions in BED format.
-* telomere.bed : The regions containing telomere motifs in BED format.
-* PAR.bed : The pseudo-autosomal region between chromosomes X and Y in BED format.
-* Non-syntenic_region.bed : Non-syntenic regions between T2T-Giraffe v1.2 (mGirTip1.pri.cur.MT.20251124) and the previous giraffe assembly ([ASM1828223v1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_018282235.1/)) are provided in BED format. These regions represent novel, newly resolved genomic sequences, including centromeres, telomeres, and short arms of acrocentric chromosomes.
+* [mGirTip1v1.2.alt.cur.20250806.eviann.gff.gz](https://github.com/jjuhyunkim/giraffeT2T/blob/main/annotation_data/mGirTip1v1.2.alt.cur.20250806.eviann.gff.gz) : Gene annotation of the T2T-Giraffe v1.2 alternative assembly using [EviAnn](https://github.com/alekseyzimin/EviAnn_release?tab=readme-ov-file) with long-read RNA-seq and protein-similarity evidence.
+
+
+### Other annotation
+* [mGirTip1v1.2.gap.bed](https://github.com/jjuhyunkim/giraffeT2T/blob/main/annotation_data/mGirTip1v1.2.gap.bed) :Gap regions in BED format.
+* [mGirTip1v1.2.telomere.bed](https://github.com/jjuhyunkim/giraffeT2T/blob/main/annotation_data/mGirTip1v1.2.telomere.bed)  : The regions containing telomere motifs in BED format.
+* [mGirTip1v1.2.par.bed](https://github.com/jjuhyunkim/giraffeT2T/blob/main/annotation_data/mGirTip1v1.2.par.bed) : The pseudo-autosomal region between chromosomes X and Y in BED format.
+* Non-syntenic_region.bed (to be uploaded) : Non-syntenic regions between T2T-Giraffe v1.2 (mGirTip1.pri.cur.MT.20251124) and the previous giraffe assembly ([ASM1828223v1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_018282235.1/)) are provided in BED format. These regions represent novel, newly resolved genomic sequences, including centromeres, telomeres, and short arms of acrocentric chromosomes.
 
 ## Contact
 Please raise issues on this Github repository concerning this dataset. 
