@@ -23,7 +23,7 @@ This project aims to produce the first telomere-to-telomere, high-quality (QV73.
   * From [Genomark (Giraffa_tippelskirchi)](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Giraffa_tippelskirchi/)
 
 ### Analysis set 
-Analysis set for using T2T-Giraffe v1.2 (mGirTip1.pri.cur.MT.20251124) as a reference for mapping based research is available at aws with a README. 
+Analysis set for using T2T-Giraffe v1.2 (mGirTip1.pri.cur.MT.20251124) as a reference for mapping based research will be available soon!
 * PAR masked curated genome (to be uploaded) : The primary haplotype reference with the PAR on chrY masked.
   
 ### Gene annotation (to be uploaded)
