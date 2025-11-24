@@ -27,10 +27,9 @@ Analysis set for using T2T-Giraffe v1.2 (mGirTip1.pri.cur.MT.20251124) as a refe
 * PAR masked curated genome (to be uploaded) : The primary haplotype reference with the PAR on chrY masked.
   
 ### Gene annotation (to be uploaded)
-* [mGirTip1v1.2.pri.cur.20251124.eviann.gff.gz](https://github.com/jjuhyunkim/giraffeT2T/blob/main/annotation_data/mGirTip1v1.2.pri.cur.20251124.eviann.gff.gz)) : Gene annotation of the T2T-Giraffe v1.2 primary assembly using [EviAnn](https://github.com/alekseyzimin/EviAnn_release?tab=readme-ov-file) with long-read RNA-seq and protein-similarity evidence.
+* [mGirTip1v1.2.pri.cur.20251124.eviann.gff.gz](https://github.com/jjuhyunkim/giraffeT2T/blob/main/annotation_data/mGirTip1v1.2.pri.cur.20251124.eviann.gff.gz) : Gene annotation of the T2T-Giraffe v1.2 primary assembly using [EviAnn](https://github.com/alekseyzimin/EviAnn_release?tab=readme-ov-file) with long-read RNA-seq and protein-similarity evidence.
 
 * [mGirTip1v1.2.alt.cur.20250806.eviann.gff.gz](https://github.com/jjuhyunkim/giraffeT2T/blob/main/annotation_data/mGirTip1v1.2.alt.cur.20250806.eviann.gff.gz) : Gene annotation of the T2T-Giraffe v1.2 alternative assembly using [EviAnn](https://github.com/alekseyzimin/EviAnn_release?tab=readme-ov-file) with long-read RNA-seq and protein-similarity evidence.
-
 
 ### Other annotation
 * [mGirTip1v1.2.gap.bed](https://github.com/jjuhyunkim/giraffeT2T/blob/main/annotation_data/mGirTip1v1.2.gap.bed) :Gap regions in BED format.
