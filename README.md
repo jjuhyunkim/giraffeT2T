@@ -1,4 +1,4 @@
-# The first T2T assembly for Giraffe (Giraffa tippelskirchi)
+# The first diploiod T2T assembly for Giraffe (Giraffa tippelskirchi)
 This project aims to produce the first telomere-to-telomere, high-quality (QV73.6) genome assembly for the giraffe—the long-necked, charming, yet giant mammal. It is also part of the [Ruminant T2T Consortium](https://bmurdoch42.wixsite.com/ruminant-t2t). In this GitHub repository, you will find the complete assembly, an analysis set for mapping-based methods, gene annotation files, and the raw sequencing data.
 
 ## Latest assembly release
