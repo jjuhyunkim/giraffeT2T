@@ -4,7 +4,7 @@ This project aims to produce the first telomere-to-telomere, high-quality (QV73.
 ## Latest assembly release
 ### T2T-Giraffe v1.2 (mGirTip1.pri.cur.MT.20251124)
 * [mGirTip1.pri.cur.MT.20251124.fasta.gz](https://genomeark.s3.amazonaws.com/species/Giraffa_tippelskirchi/mGirTip1/assembly_curated/mGirTip1.pri.cur.MT.20251124.fasta.gz) : Primary assembly of the Masai giraffe (Giraffa tippelskirchi). This represents the gapless, high-quality haplotype of the diploid T2T-mGirTip1 assembly that includes both X and Y sex chromosomes. Chromosomal haplotypes were assigned using parental information and are provided in the original FASTA file available on genomeark.org.
-
+* Other alternative, maternal, paternal, and chrM can be found [genomeark_Giraffa_tippelskirchi](https://www.genomeark.org/t2t-all/Giraffa_tippelskirchi.html)
 * Previous assemblies and the README.md containing the release log can be found [here](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Giraffa_tippelskirchi/mGirTip1/assembly_curated/)
 
 ## Samples (by individuals and tissues)
